@@ -1,6 +1,7 @@
 {
   "headers": {
-  "/*": {
-    "X-Author": "lazyismyally"
+    "/*": {
+      "X-Author": "lazyismyally"
+    }
   }
 }
