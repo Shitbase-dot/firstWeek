@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "lazyismyally"
+      "X-Author": "lazyismyally",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
