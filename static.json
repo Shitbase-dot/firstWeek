@@ -1,8 +1,18 @@
 {
   "headers": {
-    "/*": {
+    "/": {
       "X-Author": "lazyismyally",
       "Access-Control-Allow-Origin": "*"
+    },
+    "/sample/": {
+      "X-Author": "lazyismyally",
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain; charset=UTF-8"
+    },
+    "/login/": {
+      "X-Author": "lazyismyally",
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain; charset=UTF-8"
     }
   }
 }
