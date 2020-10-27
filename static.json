@@ -3,6 +3,15 @@
     "/*": {
       "X-Author": "lazyismyally",
       "Access-Control-Allow-Origin": "*",
+    },
+    "/login/*": {
+      "X-Author": "lazyismyally",
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain; charset=UTF-8"
+    },
+    "/sample/*": {
+      "X-Author": "lazyismyally",
+      "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8"
     }
   }
